@@ -1,0 +1,51 @@
+City,Area & city,Area,Profile followers,RowHash
+London,"London, England",England,293,428bd4a7e8e33602f1257dc912af6c39cde579760fefe59d2f5d4a34e14fc15b
+Cape Town,"Cape Town, Western Cape",Western Cape,168,475676bb4b3047042f6752fe80e02b70150c6a2d7a098e0840c40eacb0f80a09
+Cairo,"Cairo, Cairo Governorate",Cairo Governorate,135,1d9a66df467e84e041107587a099335c38717e02df0e933aec38e59007aa4dc4
+Nairobi,"Nairobi, Nairobi",Nairobi,126,4559a77724e298d8bc2be555b3d355844505c3cb944bfea1daa377a985e9174b
+Melbourne,"Melbourne, Victoria",Victoria,87,0f64dabf0f0f427713f5d3e265fa0a18e672a1d1d88385a193a594e810ff6af1
+Karachi,"Karachi, Sindh",Sindh,84,eb2fd47f60922b05214e94b836a8df1fa0ddcacac92244ffd771d6a01570dedc
+Toronto,"Toronto, Ontario",Ontario,69,aa5ed243607ad224b9cc54c21ee02d89ff96e2c7f8802e5cf4d3f259bd0d993c
+Sydney,"Sydney, New South Wales",New South Wales,64,b41126591f323cb0bcea3ce64f283d2ee2c265021ee2aa1058d7f498ff123487
+Lagos,"Lagos, Lagos State",Lagos State,62,7f6aa5ef6c4357538b3502afee902b340a1017d78c5323754601d50a94d4e989
+New York,"New York, New York",New York,57,e87888ab4e01ddc50846ca318c409fa10e2ec6a39035938f00a90154529186e0
+Lahore,"Lahore, Punjab",Punjab,56,cfb6175ba06696e81f4e831e87cb022b6dccd67b3eeb8ff55a1f9750ebb0d67a
+Beirut,"Beirut, Beirut Governorate",Beirut Governorate,54,867f4434124bdbc434224c0b931277f8db56407d3fda43ad432a590b9a71b9f8
+Mumbai,"Mumbai, Maharashtra",Maharashtra,53,6942b4e22c2c93739f71cd3fd8aeff1a5499ed04fab0f7d0775b0df148faa820
+Istanbul,"Istanbul, Istanbul Province",Istanbul Province,50,702fee887d7d10f553eee804c93fc08f8392514ca7f417e6b2445008c6e9d222
+Mexico City,"Mexico City, Distrito Federal",Distrito Federal,48,6d10b062e0c2248f9b940758bd1811cfd002f9f137223478cef7e97c2bba4caa
+Casablanca,"Casablanca, Grand Casablanca",Grand Casablanca,47,0805bc80dbeb3f2a4f447df6b5587353c917e5a5daf1edc7f1b1253ee72afcb3
+Algiers,"Algiers, Algiers Province",Algiers Province,47,7e3f77b6c45565c8844af8e36dafa0ba6ef87ca247898e13bb7637d479eb8657
+Birmingham,"Birmingham, England",England,46,735fda106e7ccb2a5692d78ade5cc96272633ef50dc0a1fb07b640d64364b549
+Bangalore,"Bangalore, Karnataka",Karnataka,45,5a6fd859b074c858942e63c0b2d17260eb7e2983fbd4b6d2186761567fa795b8
+Liverpool,"Liverpool, England",England,42,5dcde3e4f194d813c93060a92e8b442746c489c7d3137f8efe2087a3144d099c
+Calgary,"Calgary, Alberta",Alberta,40,ddf58f5c34d95b2162bd84df7b1d26c56e93ed3cf0fe9d8345773a7e7bdf17d5
+Santiago,"Santiago, Santiago Metropolitan Region",Santiago Metropolitan Region,39,6a3c0e236707b056ee86ecf4400b14ac6ab29444a58149779b52b410a2b8bd39
+Dubai,"Dubai, Dubai",Dubai,39,5e670ae4bf40db15da16b819b77e9ba17cca5384829403b5103211ba1cb74de7
+Delhi,"Delhi, Delhi",Delhi,39,7e731c07fe69e23cf7737a9175b1ec1f972ddb0fa356e03392127cecf57c552b
+Abuja,"Abuja, Federal Capital Territory",Federal Capital Territory,38,3f42490b5d0c89374f54667dab6f25ba7399de42d6665dce5c3aef7c378135cd
+Perth,"Perth, Western Australia",Western Australia,37,e6630a03c889c750f51ae12b5311eabc70421260ab5ac4dfd2ebbf7fa077deb5
+Alexandria,"Alexandria, Alexandria Governorate",Alexandria Governorate,36,5e7fe335e8e90ad99e55b95a95af11a4ba00bd56878b8a1a57b2b99d3ba16791
+Singapore,"Singapore, Singapore",Singapore,34,cc1eede2bad5baa45bdc1e5a9871238f333d6155bfe5d210cd0019fdcf8ef8c6
+Amman,"Amman, Amman Governorate",Amman Governorate,34,2a0d8542da16807b729f7905ca0e8e9e968a58c997082920f38120b6ac6b6a29
+Los Angeles,"Los Angeles, California",California,33,1b20b2cd13debd0f65fd13385be4f9ba285b21b2660b9f5f2dbda46c4f5bf4c7
+Belgrade,"Belgrade, Central Serbia",Central Serbia,33,fc6fff60b9397ad7dbd3ca8a631e38a86448cc9419389415ec0423e2d54e2fed
+Panama City,"Panama City, Panamá Province",Panamá Province,32,3886659ad4316b28646c79d69dacd70c7d1a841e1c3aaa8ca4fd047cb2f793b0
+Bristol,"Bristol, England",England,32,75ac02cb3ecbed391168e41af708c81bbe27044c9d70529b2d2dd032917a0fad
+Sandton,"Sandton, Gauteng",Gauteng,31,c6e8f2b307acc78fe0cbd60be274516153ede88de2932ba3a2d62539389e3f52
+Glasgow,"Glasgow, Scotland",Scotland,31,439389b2f5063e94e359d804092a2938819bbea88dc1e7a70e6c4fb6b79ed236
+Dublin,"Dublin, Dublin",Dublin,31,4112f22ce7e62a269db77519d31669d241cc48caf3b76f6913dd3be5207bc9f5
+Rawalpindi,"Rawalpindi, Punjab",Punjab,29,af7adb65a9830b22c979ebe53f902c0592484d8c9cabdb7b64faf47a8b359523
+Johannesburg,"Johannesburg, Gauteng",Gauteng,29,a010de563dab48ea416fba8d4d9b286cbe3a5a6bb73bf939a8d825f52c01df5a
+Bogotá,"Bogotá, Distrito Especial",Distrito Especial,29,10f6ca25db76e885ec695196161a8a5ca2f197bb2525f6404873f71b8d39ad80
+Ottawa,"Ottawa, Ontario",Ontario,28,05911d2384f8b1f8f17fc4c27ddc8d06e774fd57d61f9a70135366e25fa904a0
+Guatemala City,"Guatemala City, Guatemala Department",Guatemala Department,28,fbbc28d709ce502a13401d914979775db9204cffa3297ac5c3b6185850580f74
+Edinburgh,"Edinburgh, Scotland",Scotland,28,a63c18882fcdca9598b415ea3c7342836bf5612234eea5dd34f12df1dc787860
+Sheffield,"Sheffield, England",England,27,fe6891e0138ebf52f1237bf1e6953d983490bbfb65815a8dd6b1740301e2421f
+Manchester,"Manchester, England",England,26,64519d57479950f992f3574a92f9532525f0936886a2c317a2860ae4e5ef0d97
+Lima,"Lima, Lima Region",Lima Region,26,6d95bc5ad99f064f1ca6afb0059769a1e9894ebdce17d2394c81b3dde1b8dff4
+Jakarta,"Jakarta, Jakarta",Jakarta,26,2c096f540f41f5981c0df6d0c505098afd7ed67dfee68f085105c3162a52f4cc
+Islamabad,"Islamabad, Islamabad Capital Territory",Islamabad Capital Territory,26,ffb3d5c098125f0cc45ecc2297e98fa34d4898217538bd88a358981a5975d7b2
+Buenos Aires,"Buenos Aires, Ciudad Autónoma de Buenos Aires",Ciudad Autónoma de Buenos Aires,26,5214d0bfdeb170c7774455bb39cc944be8deeb237d50c6e8f4463ee58521dc75
+Quito,"Quito, Pichincha Province",Pichincha Province,25,d8a5a9093a98143815348299e2ec80f7ab65345d492107e2ead504941cadbd57
+Derby,"Derby, England",England,24,8016cfad47c2034a3122a8c4210cfae16c1e1eb961a28820df57a0724e4b3938
